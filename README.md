@@ -1,0 +1,1 @@
+This web app generates QR codes from user input text or URLs using HTML, CSS, and JavaScript along with the qrcodejs library. Users can enter any text, click generate, and view the QR code on the screen.
